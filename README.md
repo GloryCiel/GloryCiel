@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gloryciel)](https://solved.ac/gloryciel)
 
-![Spotify](https://img.shields.io/badge/Spotify-1DB954.svg?&style=for-the-badge&logo=Spotify&logoColor=white)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954.svg?&style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/31k242vanpbfcioxwnryxhtmo3n4)
