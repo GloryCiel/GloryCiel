@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FDB2A2&height=200&section=header&text=Welcome-nl-To-nl-My%20Profile&fontSize=30&fontColor=FE96BC)
+## 
 
 <!--
 **GloryCiel/GloryCiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +20,6 @@ Here are some ideas to get you started:
 
 ## Available Languages & Tools
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+
+## Others
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954.svg?&style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/31k242vanpbfcioxwnryxhtmo3n4)[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/9wd3EEuBGx)
