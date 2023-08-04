@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FDB2A2&height=300&section=header&text=Welcome-nl-To-nl-My%20Profile&fontSize=70&fontColor=FE96BC)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FDB2A2&height=200&section=header&text=Welcome-nl-To-nl-My%20Profile&fontSize=30&fontColor=FE96BC)
 
 <!--
 **GloryCiel/GloryCiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
