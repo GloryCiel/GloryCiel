@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gloryciel)](https://solved.ac/gloryciel) ![GloryCiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GloryCiel&theme=tokyonight)
 
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954.svg?&style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/31k242vanpbfcioxwnryxhtmo3n4)
+## Available Languages & Tools
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
